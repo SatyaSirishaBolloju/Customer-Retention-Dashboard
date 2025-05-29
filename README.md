@@ -14,6 +14,6 @@ Actionable insights to enhance retention strategies
 Tools Used: Power BI, DAX
 
 ## 📸 Dashboard Previews
-![Dashboard Screenshot 1](Screenshot 2025-05-28 195205.png) 
-![Dashboard Screenshot 2](Screenshot 2025-05-28 195231.png) 
-![Dashboard Screenshot 2](Screenshot 2025-05-28 195341.png)
+![Dashboard Screenshot 1](images/home.jpg) 
+![Dashboard Screenshot 2](images/churndashboard.jpg) 
+![Dashboard Screenshot 2](images/customerchurndashboard.jpg)
